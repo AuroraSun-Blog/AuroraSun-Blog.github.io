@@ -1,11 +1,11 @@
 https://aurorasun.fun/link/index.html
 https://aurorasun.fun/posts/ddae.html
 https://aurorasun.fun/posts/ddae.html
-https://aurorasun.fun/notice/index.html
 https://aurorasun.fun/tags/index.html
+https://aurorasun.fun/notice/index.html
 https://aurorasun.fun/categories/index.html
 https://aurorasun.fun/about/index.html
 https://aurorasun.fun/archives/index.html
 https://aurorasun.fun/
-https://aurorasun.fun/tags/Hexo/
 https://aurorasun.fun/tags/C/
+https://aurorasun.fun/tags/Hexo/
